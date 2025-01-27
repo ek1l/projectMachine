@@ -1,0 +1,4 @@
+# db_config.yml
+database:
+  user: "postgres"
+  password: ",W71QWYNAQ8JOq?"
